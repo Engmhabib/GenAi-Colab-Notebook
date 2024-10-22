@@ -71,13 +71,4 @@ The notebook encourages users to evaluate the generated outputs (both text and i
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [StyleGAN/DALL·E Model Information](https://github.com/NVlabs/stylegan)
 
-## **License**
-This project is open-source and available under the MIT License. Feel free to use, modify, and share it for educational purposes.
-"""
 
-# Write the content to a README.md file
-readme_path = '/mnt/data/README.md'
-with open(readme_path, 'w') as readme_file:
-    readme_file.write(readme_content)
-
-readme_path
