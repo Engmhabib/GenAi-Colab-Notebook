@@ -54,15 +54,3 @@ git clone https://github.com/Engmhabib/GenAi.git
 cd GenAi
 pip install -r requirements.txt
 
-### Contributing
-
-If you have any suggestions or improvements, feel free to fork the repository and create a pull request. Contributions are welcome!
-
-### Contact
-
-If you have any questions or need further assistance, please reach out to me:
-
-- **Name**: Mohamed Habib Agrebi
-- **Email**: [Habibagrebi7@gmail.com](mailto:Habibagrebi7@gmail.com)
-
-Enjoy exploring AI with this notebook!
